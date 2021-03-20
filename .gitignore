@@ -88,3 +88,6 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+certificate-dev-profile.p12
+lunch2gether 2021-03-20 19-58-13
